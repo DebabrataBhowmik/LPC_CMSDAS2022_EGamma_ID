@@ -11,7 +11,7 @@ shift+enter
 
 open the file ABasicID.ipynb
 ```
-Kernel -> Change Kernel -> hats-sci-py-PF 
+Kernel -> Change Kernel -> CMSDAS2022-sci-py-EGamma
 ```
 start the exercise in the file ABasicID.ipynb
 
