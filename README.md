@@ -5,6 +5,9 @@ git clone https://github.com/DebabrataBhowmik/LPC_CMSDAS2022_EGamma_ID
 go back to the jupyter window
 
 Open the file NeededSetup.ipynb and run it (need to run once only)
+```
+shift+enter
+```
 
 open the file ABasicID.ipynb
 ```
